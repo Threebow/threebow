@@ -14,7 +14,6 @@ I am known on the internet as Threebow, and this is my GitHub profile. Programmi
 - Pug
 - SCSS
 - Solidity
-- Vue
 
 I am proudly a maximalist of the Node + TypeScript ecosystem. Despite my experience with a variety of programming languages, my preference and enjoyment for Node and TypeScript are unmatched, making them my personal choices for most projects. While I have occasionally used Rust and Go, I must admit they are not among my favorites.
 
@@ -25,6 +24,7 @@ I am proudly a maximalist of the Node + TypeScript ecosystem. Despite my experie
 - Networking-intensive applications (e.g. game servers)
 - Distributed systems
 - Blockchain applications (e.g. EVM, Solana)
+- Vue
 
 ### Most Used Tools:
 I like to use the following stack when it comes to distributed data-driven applications:
