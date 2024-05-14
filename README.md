@@ -3,6 +3,7 @@
 I am known on the internet as Threebow, and this is my GitHub profile. Programming has been a significant part of my life for as long as I can remember. I enjoy starting and being actively engaged in multiple projects and ventures simultaneously, as it presents a satisfying challenge. Here is a brief summary of my current development work as well as some past achievements.
 
 ### Currently Focused On:
+- Security Engineering [@coreweave](https://github.com/coreweave/)
 - [Arion Studios](https://arionstudios.com): My freelance agency, offering a range of digital solutions.
 - [Nebulosity](https://nebulosity.digital): My venture agency with a focus on cryptocurrency projects.
 - [TSManage](https://demo.tsmanage.com): A long-standing SaaS platform that streamlines TeamSpeak management processes for FiveM communities.
